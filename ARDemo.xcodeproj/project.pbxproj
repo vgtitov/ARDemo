@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0B2F0F1525189AF6009A1906 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 0B2F0F1425189AF6009A1906 /* .travis.yml */; };
 		0BB916B923DF2FFD00DBFD84 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB916B823DF2FFD00DBFD84 /* AppDelegate.swift */; };
 		0BB916BB23DF2FFD00DBFD84 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 0BB916BA23DF2FFD00DBFD84 /* art.scnassets */; };
 		0BB916BD23DF2FFD00DBFD84 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB916BC23DF2FFD00DBFD84 /* ViewController.swift */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0B2F0F1425189AF6009A1906 /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 		0BB916B523DF2FFD00DBFD84 /* ARDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BB916B823DF2FFD00DBFD84 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BB916BA23DF2FFD00DBFD84 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -42,7 +40,6 @@
 		0BB916AC23DF2FFD00DBFD84 = {
 			isa = PBXGroup;
 			children = (
-				0B2F0F1425189AF6009A1906 /* .travis.yml */,
 				0BB916B723DF2FFD00DBFD84 /* ARDemo */,
 				0BB916B623DF2FFD00DBFD84 /* Products */,
 			);
@@ -128,7 +125,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0B2F0F1525189AF6009A1906 /* .travis.yml in Resources */,
 				0BB916BB23DF2FFD00DBFD84 /* art.scnassets in Resources */,
 				0BB916C523DF2FFF00DBFD84 /* LaunchScreen.storyboard in Resources */,
 				0BB916C223DF2FFF00DBFD84 /* Assets.xcassets in Resources */,
